@@ -1,0 +1,1 @@
+[{"model": "tracking.Ship", "pk": 1, "fields": {"imo": "9632179", "name": "Mathilde Maersk"}}, {"model": "tracking.Ship", "pk": 2, "fields": {"imo": "9247455", "name": "Australian Spirit"}}, {"model": "tracking.Ship", "pk": 3, "fields": {"imo": "9595321", "name": "MSC Preziosa"}}]
