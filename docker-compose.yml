@@ -12,3 +12,8 @@ services:
       - "8000:8000"
     depends_on:
       - db
+  front:
+    build: ./front
+    command: python -m http.server 3000
+    ports:
+      - "3000:3000"
